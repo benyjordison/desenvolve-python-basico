@@ -1,2 +1,4 @@
 # desenvolve-python-basico
-Python
+Programação básica com Python
+Projeto Desenvolve - Itabira
+PDITA782
