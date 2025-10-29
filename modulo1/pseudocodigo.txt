@@ -1,1 +1,8 @@
-
+Tabuda do 9:
+INICIO
+Leia o número e armazene em n;
+Obtido o n, faça a seguinte operação: (n-1)*10 e amarzene em x;
+Faça outra operação: 10-n e armzene em y;
+Em seguida, faça x+y e amazene em z
+Por fim imprima na tela 9 x n: imprimindo z;
+FIM
