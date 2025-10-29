@@ -1,0 +1,6 @@
+Tabuda do 9:
+Primeiro digite um número;
+Subtraia o número inserido por 1 e multiplique o por 10;
+Faça outra subtração de 10 com o número inserido;
+Em seguida, some o resultado da primeira subtração com a segunda subtração;
+Por fim imprima na tela 9 x o número digitado, igualando ao resultado da soma.
